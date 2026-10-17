@@ -1,0 +1,77 @@
+a:hover {
+  color: #ffd823;
+}
+
+.vs-btn.style3,
+.vs-btn.mask-style1,
+.bg-theme,
+.vs-carousel.bg-arrow-theme .slick-arrow,
+.vs-carousel.bg-dots-theme-active .slick-dots li.slick-active button,
+[data-overlay="theme"]:before,
+.vs-btn.style1,
+.icon-btn:hover,
+.icon-btn.active,
+.social-links.links-has-border a:hover,
+.widget_nav_menu a:hover,
+.icon-btn.style1:hover,
+.ls-v6 [class*="ls-gui-element ls-nav-"],
+input[type="radio"] ~ label:after {
+  background-color: #ffd823;
+}
+
+.border-exp-box .counter,
+a,
+.link-inherit a:hover,
+.link-inherit h1 a:hover,
+.link-inherit h2 a:hover,
+.link-inherit h3 a:hover,
+.link-inherit h4 a:hover,
+.link-inherit p a:hover,
+.link-inherit span a:hover,
+.text-theme,
+.icon-btn,
+.form-group > i,
+.social-links a:hover,
+.footer-widget-wrapper .widget_nav_menu a:hover,
+.slick-arrow:hover,
+.arrow-white .slick-arrow:hover,
+.dark-style .text-theme .dark-footer .text-theme,
+.link-inherit .text-theme,
+.dark-style a:hover,
+input[type="checkbox"]:checked ~ label:before,
+input[type="checkbox"]:checked ~ label {
+  color: #ffd823;
+}
+
+.border-theme,
+.border-before-theme:before,
+.vs-carousel.border-dots-theme-active .slick-dots li.slick-active button,
+.social-links.links-has-border a:hover,
+.widget_title,
+.slick-dots li.slick-active button,
+.vs-about-layout4 .vs-3dcarousel .slick-current img,
+input[type="radio"]:checked ~ label:before,
+input[type="checkbox"]:checked ~ label:before,
+.dark-footer .bg-white {
+  border-color: #ffd823;
+}
+
+.vs-team-layout2 .team-img:before {
+  background-image: linear-gradient(to top, #ffd823 15%, rgba(0, 0, 0, 0) 80%);
+}
+
+.icon-btn .style1 {
+  background-color: rgba(255, 216, 35, 1);
+}
+
+.ls-bottom-nav-wrapper .ls-bottom-slidebuttons a.ls-nav-active {
+  border-color: #ffd823 !important;
+}
+
+.vs-box1 .learn-more {
+  box-shadow: 0px 10px 20px 0px rgba(255, 216, 35, 1);
+}
+
+.ls-text-theme {
+  color: #ffd823 !important;
+}
